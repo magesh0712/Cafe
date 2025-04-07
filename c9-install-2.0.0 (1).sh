@@ -1,4 +1,3 @@
-
 #!/bin/bash -e
 set -e
 has() {
@@ -556,5 +555,4 @@ start "$@"
 
 # cleanup tmp files
 rm -rf "$C9_DIR/tmp"
-
-#script file is ready to execute
+#script file is ready to execute.
